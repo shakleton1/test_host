@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (goToPage1Button) {
         goToPage1Button.addEventListener("click", () => {
-            navigateTo("page1.html");
+            navigateTo("index.html");
         });
     }
 
